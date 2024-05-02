@@ -1,0 +1,6 @@
+$nomention
+$onlyIf[$isBot[$authorID]!=true;]
+$title[💰 Seu Saldo]
+$description[Você tem $getUserVar[money;$authorID] Z.coins]
+$color[$random[1000;2000]]
+$footer[Verifique frequentemente o seu saldo para planejar seus gastos!]
